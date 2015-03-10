@@ -1,0 +1,16 @@
+Script started on 2015年03月10日 (週二) 17時32分17秒
+]0;F74036213@2015cpp: ~F74036213@2015cpp:~$ whoaml;pwd
+No command 'whoaml' found, did you mean:
+ Command 'whoami' from package 'coreutils' (main)
+whoaml: command not found
+/home/F74036213
+]0;F74036213@2015cpp: ~F74036213@2015cpp:~$ whoami;pwd
+F74036213
+/home/F74036213
+]0;F74036213@2015cpp: ~F74036213@2015cpp:~$ git config -l
+]0;F74036213@2015cpp: ~F74036213@2015cpp:~$ git clone https://github.com/yv onne40335/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74036213@2015cpp: ~F74036213@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時36分08秒
